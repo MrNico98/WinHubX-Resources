@@ -1,6 +1,5 @@
-@set masver=2.5
-@setlocal DisableDelayedExpansion
-@echo off
+echo funziono
+pause
 
 
 
