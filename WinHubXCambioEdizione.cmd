@@ -90,7 +90,7 @@ popd
 
 cls
 color 07
-title  Change WinHubX Cambio Edizione
+title  WinHubX Cambio Edizione
 
 set _args=
 set _elev=
