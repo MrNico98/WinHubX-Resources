@@ -15,7 +15,7 @@ echo.    [2] KMS38 (Win8.1-11)
 echo.    [3] KMS (Win7-11)
 echo.
 echo.================================================================
-set /p Sceltaattivazione=Seleziona Numero:
+set /p Sceltaattivazione=Seleziona Numero: 
 
 if "%Sceltaattivazione%" equ "1" ( goto :permanentemente)
 if "%Sceltaattivazione%" equ "2" ( goto :kms38)
