@@ -1,3 +1,3 @@
 # WinHubX-Resources
 
-version 3.0.0
+version 127.69.3
